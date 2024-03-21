@@ -1,3 +1,8 @@
+# INSTALL
+npm i react-router-dom@5
+npm install animate.css
+npm install react-bootstrap bootstrap
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
