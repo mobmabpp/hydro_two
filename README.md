@@ -1,7 +1,10 @@
 # INSTALL
-npm i react-router-dom@5
-npm install animate.css
-npm install react-bootstrap bootstrap
+| npm i react-router-dom@5
+| npm install animate.css
+| npm install react-bootstrap bootstrap
+| npm install react-icons --save
+| npm i react-router-hash-link
+| npm i react-on-screen
 
 # Getting Started with Create React App
 
