@@ -1,6 +1,6 @@
 import React from 'react';
 
-const Plot = () => {
+const Tutorial = () => {
   return (
     <section className='hero'>
       <h1>Welcome To Plot</h1>
@@ -8,4 +8,4 @@ const Plot = () => {
   )
 }
 
-export default Plot;
+export default Tutorial;

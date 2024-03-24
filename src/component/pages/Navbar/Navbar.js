@@ -13,6 +13,7 @@ const Navbar = () => {
             <ul className= 'nav-links'>
                 <Link to='/'> <li>Home</li></Link>
                 <Link to='/dashboard'> <li>Dashboard</li></Link>
+                <Link to='/contact'> <li>Contact</li></Link>
             </ul>
             <span className='navbar-text'>
               <HashLink to='/tutorial'>
