@@ -1,11 +1,12 @@
 import React from 'react';
+import './Home.css';
 
-const home = () => {
+const Home = () => {
   return (
-    <section className='banner' id='home'>
-      <h1>Welcome To home</h1>
+    <section className='App'>
+      <h1>Welcome To HOME!!!</h1>
     </section>
   )
 }
 
-export default home;
+export default Home;

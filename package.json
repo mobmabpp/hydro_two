@@ -16,6 +16,7 @@
     "react-router-dom": "^5.3.4",
     "react-router-hash-link": "^2.4.3",
     "react-scripts": "5.0.1",
+    "style-loader": "^3.3.4",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
@@ -43,6 +44,7 @@
     ]
   },
   "devDependencies": {
+    "css-loader": "^6.10.0",
     "eslint-plugin-react-hooks": "^4.6.0"
   }
 }
